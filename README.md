@@ -10,18 +10,19 @@
 <h3>💎 <strong>Coding Platforms</strong></h3>
 <ul>
   <li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Codeforces_logo.png" alt="Codeforces" width="20" height="20" />
+    <img src="https://camo.githubusercontent.com/0f22d6107764d6e8a0938bd88dcaad5b920c306e7351da5cf847082940513453/68747470733a2f2f636f6465666f726365732e6f72672f732f32323438312f696d616765732f636f6465666f726365732d73706f6e736f7265642d62792d746f6e2e706e67" alt="Codeforces" width="100" height="50" />
     <strong>Codeforces</strong>: <strong>Expert (Peak Rating: 1691)</strong> <a href="https://codeforces.com/profile/phoenix_vasu">Profile</a>
   </li>
   <li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Chef_Logo.png" alt="CodeChef" width="20" height="20" />
+    <img src="https://camo.githubusercontent.com/a5481a352cfcb115616d60cc0770b076c21fb4e95b0bdc673cf9aaa4e9b5e524/68747470733a2f2f63646e2e636f6465636865662e636f6d2f696d616765732f63632d6c6f676f2e737667" alt="CodeChef" width="100" height="50" />
     <strong>CodeChef</strong>: <strong>5 Star (Peak Rating: 2031)</strong> <a href="https://www.codechef.com/users/phoenix_vasu">Profile</a>
   </li>
   <li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" height="20" />
+    <img src="https://camo.githubusercontent.com/1018b9f44fb8caa5106751c73b9379b15166d8a0f25c7ea4904f938015ec81de/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63322f4c656574436f64655f4c6f676f5f322e706e67" alt="LeetCode" width="100" height="50" />
     <strong>LeetCode</strong>: <strong>Guardian Badge (Peak Rating: 2185)</strong> <a href="https://leetcode.com/u/phoenix_vasu/">Profile</a>
   </li>
 </ul>
+
 
 <hr>
 
