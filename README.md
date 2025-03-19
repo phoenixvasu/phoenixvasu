@@ -1,5 +1,5 @@
-<h2>Hi there! 👋 I'm <strong>Vasu Nandan</strong></h2>
-<p><strong>Competitive Programmer | Web Developer | ML Enthusiast</strong></p>
+<h1>Hi there! 👋 I'm <strong>Vasu Nandan</strong></h1>
+<h3><strong>Competitive Programmer | Web Developer | ML Enthusiast</strong></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phoenixvasu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
